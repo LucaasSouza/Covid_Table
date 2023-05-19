@@ -1,4 +1,4 @@
-window.addEventListener('load', async () => { //Faz a requisição dos dados assim que a tela é carregada
+window.addEventListener('load', async () => {  //Faz a requisição dos dados assim que a tela é carregada
     let i = 1 //Será o id das rows
     let data; //Armazenará os dados vindos da API
     const pDate = document.querySelector('#date')
